@@ -42,7 +42,3 @@ Practicas-TQA/
 ## 👥 Estudiante / Responsable
 - **Estudiante:** Juan Mayta (`@Jack99M`)
 - **Universidad:** Franz Tamayo (UNIFRANZ) — Sede La Paz
-
-## 👨‍🏫 Docente Evaluador
-- **Docente:** Ing. Reynel Sánchez Ch.
-- **Correo Institucional:** `doc.reynel.sanchez.ch@unifranz.edu.bo`
