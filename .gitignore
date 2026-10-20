@@ -1,0 +1,13 @@
+﻿# Temporales del sistema
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+
+# Paquetes y temporales
+node_modules/
+__pycache__/
+*.tmp
